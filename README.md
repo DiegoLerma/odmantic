@@ -19,8 +19,8 @@ Este proyecto implementa un CRUD (Crear, Leer, Actualizar, Eliminar) básico uti
 1. **Clonar el repositorio:**
 
    ```bash
-   git clone <url-del-repositorio>
-   cd <nombre-del-directorio>
+   git clone https://github.com/DiegoLerma/odmantic.git
+   cd odmantic
    ```
 
 2. **Instalar las dependencias:**
